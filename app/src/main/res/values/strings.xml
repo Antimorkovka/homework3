@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="start_service">Start service</string>
+    <string name="image_name">image.jpg</string>
+    <string name="no_image_loaded_warning">No image loaded, try adding new by copying URL to the clipboard</string>
+    <string name="image_load">Image loaded</string>
+</resources>
